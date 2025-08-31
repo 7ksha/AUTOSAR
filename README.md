@@ -1,4 +1,4 @@
-# Proposal: AI-Enhanced AUTOSAR OS for Energy-Efficient Autonomous Vehicles
+# AI-Enhanced AUTOSAR OS for Energy-Efficient Autonomous Vehicles
 
 ---
 
